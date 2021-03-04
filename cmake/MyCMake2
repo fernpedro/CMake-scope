@@ -1,0 +1,2 @@
+set(HIS_NAME NewName)
+message("MyCMake2: " ${MY_NAME} " " ${YOUR_NAME} " " ${HIS_NAME})
