@@ -1,3 +1,5 @@
+# https://stackoverflow.com/questions/34418357/cmake-scoping-rules
+
 cmake_minimum_required(VERSION 3.15)
 project( fernpedro)
 

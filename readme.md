@@ -1,3 +1,3 @@
-# CMake scope rules
+# CMake scoping rules
 
 Simple example
